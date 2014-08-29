@@ -3,7 +3,7 @@
     "description": "A NodeJS framework to set background workers.",
     "main": "./lib/main",
     "author": "Chiyan Chen",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository" : {
         "type" : "git",
         "url" : "https://github.com/redblaze/node-worker.git"
